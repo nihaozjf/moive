@@ -1,3 +1,3 @@
 # movie
 movie crawler 
- crawl movie info from meituan nuomi dazhongdianping  shiguang
+ crawl hot movies info from meituan nuomi and douban
